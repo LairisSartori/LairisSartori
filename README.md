@@ -1,12 +1,12 @@
 Oii!Eu sou a Laíris Sartori.
 
 Em
- 
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la%C3%ADris-sartori-4a8309178/)
 
  ![Lairis Sartori GitHub stats](https://github-readme-stats.vercel.app/api?username=LairisSartori&show_icons=true&theme=dracula)
 
-## Tecnologias  que eu uso no dia a dia
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/la%C3%ADris-sartori-4a8309178/)
+
+## Tecnologias que eu uso no dia a dia
 
  <div style="display: inline-block">
   <img  align="center"alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
